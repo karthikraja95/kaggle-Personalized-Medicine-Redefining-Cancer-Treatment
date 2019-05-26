@@ -11,4 +11,4 @@ Currently this interpretation of genetic mutations is being done manually. This 
 
 For this competition MSKCC is making available an expert-annotated knowledge base where world-class researchers and oncologists have manually annotated thousands of mutations.
 
-We need your help to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
+Download the data form the kaggle website: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
